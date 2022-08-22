@@ -3,7 +3,7 @@
 
 ## An example to run AK-VAE
 
-run LightGCN on **Gowalla** dataset:
+run AK-VAE on **Gowalla** dataset:
 
 * change base directory
 
